@@ -128,3 +128,277 @@ nav ul {
     left: 667px;
     top: 1773px;
 }
+
+/* features style */
+.feature-title {
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left: 1085px;
+    top: 1609px;
+    font-size: 45px;
+    color: #131313;
+}
+
+.text-primary {
+    color: #FF900E;
+}
+
+.feature-description {
+    position: absolute;
+    width: 537px;
+    height: 78px;
+    left: 1082px;
+    top: 1739px;
+    font-size: 16px;
+    color: #727272;
+    margin-top: 24px;
+}
+
+.btn-primary-two {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    position: absolute;
+    width: 200px;
+    height: 64px;
+    left: 1082px;
+    top: 1849px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+
+}
+
+/* feature-version-title */
+.feature-version-title {
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left: 266px;
+    top: 2284px;
+    font-size: 30px;
+    color: #131313;
+}
+
+.feature-version-description {
+    position: absolute;
+    width: 586px;
+    height: 78px;
+    left: 240px;
+    top: 2414px;
+    font-size: 16px;
+    color: #727272;
+}
+
+/* feature-criteria */
+
+.feature-criteria-title-one {
+    position: absolute;
+    width: 252px;
+    height: 23px;
+    left: 273px;
+    top: 2552px;
+    font-size: 14px;
+    color: #131313;
+}
+
+.feature-criteria-description-one {
+    position: absolute;
+    width: 514px;
+    height: 78px;
+    left: 270px;
+    top: 2585px;
+    font-size: 16px;
+    color: #727272;
+}
+
+.feature-criteria-title-two {
+    position: absolute;
+    width: 194px;
+    height: 23px;
+    left: 273px;
+    top: 2743px;
+    font-size: 14px;
+    color: #131313;
+}
+
+.feature-criteria-description-two {
+    position: absolute;
+    width: 514px;
+    height: 78px;
+    left: 270px;
+    top: 2776px;
+    font-size: 16px;
+    color: #727272;
+}
+
+.feature-criteria-title-three {
+    position: absolute;
+    width: 248px;
+    height: 23px;
+    left: 273px;
+    top: 2934px;
+    font-size: 14px;
+    color: #131313;
+}
+
+.feature-criteria-description-three {
+    position: absolute;
+    width: 514px;
+    height: 78px;
+    left: 270px;
+    top: 2967px;
+    font-size: 16px;
+    color: #727272;
+}
+
+.feature-criteria-title-four {
+    position: absolute;
+    width: 181px;
+    height: 23px;
+    left: 273px;
+    top: 3125px;
+    font-size: 14px;
+    color: #131313;
+}
+
+.feature-criteria-description-four {
+    position: absolute;
+    width: 514px;
+    height: 78px;
+    left: 270px;
+    top: 3158px;
+    font-size: 16px;
+    color: #727272;
+}
+
+.feature-criteria-image {
+    position: absolute;
+    width: 800px;
+    height: 1059px;
+    left: 880px;
+    top: 2245px;
+}
+
+.btn-primary-three {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 45px;
+    border: 0;
+    padding: 18px 35px;
+    position: absolute;
+    width: 342px;
+    height: 200px;
+    left: 880px;
+    top: 3104px;
+    background: #FF900E;
+    border-radius: 8px;
+}
+
+/* facts style */
+.facts-title {
+    position: absolute;
+    width: 258px;
+    height: 53px;
+    left: 240px;
+    top: 3434px;
+    font-size: 30px;
+    color: #131313;
+}
+
+.facts-description {
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 240px;
+    top: 3511px;
+    font-size: 16px;
+    color: #727272;
+}
+
+/* achievement style */
+
+.achievement-image-one {
+    position: absolute;
+    width: 45.22px;
+    height: 45.22px;
+    left: 388px;
+    top: 3709px;
+
+}
+
+.achievement-title-one {
+    position: absolute;
+    width: 55px;
+    height: 53px;
+    left: 383px;
+    top: 3764.22px;
+    font-size: 45px;
+}
+
+.achievement-des-one {
+    position: absolute;
+    width: 169px;
+    height: 23px;
+    left: 326px;
+    top: 3822.22px;
+    font-size: 20px;
+    color: #727272;
+}
+
+.achievement-image-two {
+    position: absolute;
+    width: 45.22px;
+    height: 45.22px;
+    left: 754px;
+    top: 3709px;
+}
+
+.achievement-title-two {
+    position: absolute;
+    width: 102px;
+    height: 53px;
+    left: 726px;
+    top: 3764px;
+    font-size: 45px;
+}
+
+.achievement-des-two {
+    position: absolute;
+    width: 160px;
+    height: 23px;
+    left: 697px;
+    top: 3822px;
+    font-size: 20px;
+    color: #727272;
+}
+
+.achievement-image-three {
+    position: absolute;
+    width: 47.39px;
+    height: 45.22px;
+    left: 1114px;
+    top: 3709px;
+    font-size: 45px;
+}
+
+.achievement-title-three {
+    position: absolute;
+    width: 83px;
+    height: 53px;
+    left: 1097px;
+    top: 3764px;
+    font-size: 45px;
+}
+
+.achievement-des-three {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 1063px;
+    top: 3822px;
+    font-size: 19px;
+    color: #727272;
+}
