@@ -3,7 +3,8 @@
     font-family: 'Work Sans', sans-serif;
 
 }
-.btn-primary-one{
+
+.btn-primary-one {
     color: #FFFFFF;
     font-weight: 700;
     font-size: 20px;
@@ -11,13 +12,19 @@
     padding: 18px 35px;
     height: 64px;
     border-radius: 5px;
+    margin-left: 300px;
     background-color: #FD6E0A;
-    
+
 }
 
 .header {
-    background-repeat: no-repeat;
-    background-position: bottom right, left;
+    position: absolute;
+    width: 1920px;
+    height: 1322px;
+    left: 0px;
+    top: 0px;
+    background: rgba(255, 144, 14, 0.1);
+
 }
 
 /* header style */
@@ -70,4 +77,54 @@ nav ul {
     margin-bottom: 33px;
     margin-top: 33px;
     text-align: center;
+}
+
+.thumbnail img {
+    margin-top: 90px;
+    margin-bottom: 65px;
+    border-radius: 8px;
+    position: absolute;
+    width: 1450px;
+    height: 600px;
+    left: 240px;
+    top: 577px;
+}
+
+/* container style */
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+
+.pic-one {
+    position: absolute;
+    width: 342px;
+    height: 342px;
+    left: 301px;
+    top: 1407px;
+}
+
+.pic-two {
+    position: absolute;
+    width: 342px;
+    height: 342px;
+    left: 667px;
+    top: 1407px;
+}
+
+.pic-three {
+    position: absolute;
+    width: 342px;
+    height: 342px;
+    left: 301px;
+    top: 1773px;
+}
+
+.pic-four {
+    position: absolute;
+    width: 342px;
+    height: 342px;
+    left: 667px;
+    top: 1773px;
 }
