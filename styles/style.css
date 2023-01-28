@@ -325,7 +325,7 @@ nav ul {
     width: 45.22px;
     height: 45.22px;
     left: 388px;
-    top: 3709px;
+    top: 3660px;
 
 }
 
@@ -334,7 +334,7 @@ nav ul {
     width: 55px;
     height: 53px;
     left: 383px;
-    top: 3764.22px;
+    top: 3720px;
     font-size: 45px;
 }
 
@@ -343,7 +343,7 @@ nav ul {
     width: 169px;
     height: 23px;
     left: 326px;
-    top: 3822.22px;
+    top: 3790px;
     font-size: 20px;
     color: #727272;
 }
@@ -353,7 +353,7 @@ nav ul {
     width: 45.22px;
     height: 45.22px;
     left: 754px;
-    top: 3709px;
+    top: 3660px;
 }
 
 .achievement-title-two {
@@ -361,7 +361,7 @@ nav ul {
     width: 102px;
     height: 53px;
     left: 726px;
-    top: 3764px;
+    top: 3720px;
     font-size: 45px;
 }
 
@@ -370,7 +370,7 @@ nav ul {
     width: 160px;
     height: 23px;
     left: 697px;
-    top: 3822px;
+    top: 3790px;
     font-size: 20px;
     color: #727272;
 }
@@ -380,7 +380,7 @@ nav ul {
     width: 47.39px;
     height: 45.22px;
     left: 1114px;
-    top: 3709px;
+    top: 3660px;
     font-size: 45px;
 }
 
@@ -389,7 +389,7 @@ nav ul {
     width: 83px;
     height: 53px;
     left: 1097px;
-    top: 3764px;
+    top: 3720px;
     font-size: 45px;
 }
 
@@ -398,7 +398,114 @@ nav ul {
     width: 150px;
     height: 23px;
     left: 1063px;
-    top: 3822px;
+    top: 3790px;
     font-size: 19px;
     color: #727272;
+}
+
+.achievement-image-four {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 1487px;
+    top: 3670px;
+}
+
+.achievement-title-four {
+    position: absolute;
+    width: 133px;
+    height: 53px;
+    left: 1443px;
+    top: 3720px;
+    font-size: 45px;
+}
+
+.achievement-des-four {
+    position: absolute;
+    width: 111px;
+    height: 23px;
+    left: 1454px;
+    top: 3790px;
+    font-size: 19px;
+    color: #727272;
+}
+
+/* sponsors-style */
+.sponsor-title {
+    position: absolute;
+    width: 327px;
+    height: 53px;
+    left: 797px;
+    top: 3940px;
+    font-size: 35px;
+}
+
+.sponsor-description {
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 689px;
+    top: 4000px;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+    margin-top: 25px;
+}
+
+/* sponsor-logo style */
+.sponsor-logo-one {
+    position: absolute;
+    width: 166.76px;
+    height: 50px;
+    left: 240px;
+    top: 4140px;
+}
+
+.sponsor-logo-two {
+    position: absolute;
+    width: 165.83px;
+    height: 50px;
+    left: 562px;
+    top: 4130px;
+}
+
+.sponsor-logo-three {
+    position: absolute;
+    width: 153.33px;
+    height: 50px;
+    left: 883px;
+    top: 4130px;
+}
+
+.sponsor-logo-four {
+    position: absolute;
+    width: 152.51px;
+    height: 50px;
+    left: 1191px;
+    top: 4130px;
+}
+
+.sponsor-logo-five {
+    position: absolute;
+    width: 181.67px;
+    height: 50px;
+    left: 1498px;
+    top: 4130px;
+}
+/* footer style */
+/* footer{
+    background-color: #FFF4E7;
+} */
+.footer-content {
+    position: absolute;
+    width: 620px;
+    height: 23px;
+    left: 650px;
+    top: 4263px;
+    font-size: 20px;
+    text-align: center;
+    color: #424242;
+    background: #FFF4E7;
+    margin-bottom: 25px;
+
 }
