@@ -92,8 +92,8 @@ nav ul {
 
 /* container style */
 .container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    /* grid-template-columns: repeat(2, 1fr); */
     gap: 5px;
 }
 
@@ -508,4 +508,32 @@ nav ul {
     background: #FFF4E7;
     margin-bottom: 25px;
 
+}
+/* responsive style */
+@media screen and (max-width: 576px) {
+    .container{
+        flex-direction: column;
+    }
+     .nav-title{
+        font-size: 40px ;
+    } 
+    nav ul{
+        width: 100%;
+        position: absolute;
+        top: 140px;
+        right: 0px;
+        left: 80px;
+    }
+    nav ul li{
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: small;
+
+    }
+    
+    
+}
+@media screen and(min-width: 577px) and (max-width: 992px) {
+    
 }
